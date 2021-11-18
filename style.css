@@ -1,0 +1,31 @@
+body{
+    height: 100vh;
+}
+div{
+  position: relative;
+  background-color: #c4c4c4;
+  width: 60%;
+  padding: 2rem;
+  margin: auto;
+  margin-top: 8rem;
+  text-align: center;
+  border-radius: 1rem;
+   
+}
+img{
+    object-fit: cover;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: absolute;
+    left: 50%;
+    top: 0;
+    transform: translate(-50%,-50%);
+
+    
+}
+h1{
+    word-spacing: 14rem;
+    margin-top: 0;
+    margin-bottom: 3rem;
+}
